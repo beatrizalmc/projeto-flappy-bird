@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/Oswald-Regular.ttf') format('truetype');
+}
+
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    color: #000a00;
+    background-color:azure;
+    height: 100%;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100%;
+}
+
+.conteudo h1 {
+    font-size: 30px;
+}
