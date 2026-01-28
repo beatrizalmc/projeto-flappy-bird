@@ -1,7 +1,7 @@
 # Flappy Bird Clone
 
 Este é um clone do famoso jogo **Flappy Bird**, desenvolvido em HTML, CSS e JavaScript.
-O projeto foi construído acompanhando um curso da [Udemy] (https://www.udemy.com/course/curso-web/learn/lecture/10285424), onde fui desenvolvendo junto com as aulas e entendendo cada parte da lógica do jogo. 
+O projeto foi construído acompanhando um curso da Udemy [link](https://www.udemy.com/course/curso-web/learn/lecture/10285424), onde fui desenvolvendo junto com as aulas e entendendo cada parte da lógica do jogo. 
 
 Além do que foi ensinado no curso, fiz algumas personalizações próprias:
 
