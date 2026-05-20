@@ -71,13 +71,13 @@ O objetivo foi adquirir aprendizados sobre a integração de HTML, CSS e JS.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/beatrizalmc/formulario-matricula.git
+   git clone https://github.com/beatrizalmc/projeto-flappy-bird
    ```
 
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd formulario-matricula
+   cd projeto-flappy-bird
    ```
 
 3. Abra o arquivo `index.html` no navegador
